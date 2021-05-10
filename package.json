@@ -6,7 +6,7 @@
     "bootstrap": "^3.4.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.2.0",
     "react-bootstrap-table": "^4.3.0",
     "react-dom": "^16.2.0",
